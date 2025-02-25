@@ -1,0 +1,18 @@
+{
+    "adsType": 0,
+    "bagKey": 72,
+    "debug": false,
+    "exitApp": 35,
+    "grenadeKey": 71,
+    "handKey": 51,
+    "hideConsole": false,
+    "mapKey": 77,
+    "pickWeapon": 69,
+    "reloadWeapon": 82,
+    "sens": 3.0,
+    "skillKey": 90,
+    "switchMode": 66,
+    "weapon1": 49,
+    "weapon2": 50,
+    "zoom_sens": 1.0
+}
